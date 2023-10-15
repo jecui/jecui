@@ -1,5 +1,5 @@
 Name: Jennifer Zheng Cui
-Education: High School Diploma, pursuing BS in Computer Science and Neuroscience at Northeastern Univeristy
+Education: High School Diploma, pursuing BS in Computer Science and Neuroscience at Northeastern Univeristy 
 
 Hobbies:
 - Badminton (10 years)
